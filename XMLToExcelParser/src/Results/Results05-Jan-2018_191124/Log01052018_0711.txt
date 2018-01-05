@@ -1,0 +1,15 @@
+07:11:27 PM - Execution started :05-Jan-2018 07:11:24 PM
+07:11:27 PM - Getting the test cases from the Run Manager
+07:11:31 PM - Start generating the XML(s)...
+07:11:31 PM - Starting comparing the XML(s) for Test1
+07:11:31 PM - Parsing the first input XML - D:\TST0079779.040317IF19.Z01
+07:11:31 PM - Parsing the second input XML - D:\TST0079779.040317IF19.Z01
+07:11:32 PM - Writing the header row in excel report for D:\TST0079779.040317IF19.Z01
+07:11:35 PM - Writing the data in excel report for D:\TST0079779.040317IF19.Z01
+07:11:36 PM - Writing the header row in excel report for D:\TST0079779.040317IF19.Z01
+07:11:36 PM - Writing the data in excel report for D:\TST0079779.040317IF19.Z01
+07:11:38 PM - Compare between the 2 XMLs
+07:11:39 PM - Writing data for comparison to excel report
+07:12:04 PM - Summary Report entry for test case - Test1
+07:12:20 PM - Execution ended :05-Jan-2018 07:12:20 PM
+07:12:20 PM - Elapsed time :55 seconds

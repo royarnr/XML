@@ -1,0 +1,35 @@
+06:52:33 PM - Execution started :17-Sep-2017 06:52:33 PM
+06:52:33 PM - Getting the test cases from the Run Manager
+06:52:34 PM - Start generating the XML(s)...
+06:52:34 PM - Starting comparing the XML(s) for Test1
+06:52:34 PM - Parsing the first input XML - D:\Arnab Da\Forester\XML Parser\103\103\BB1060419_20170811_12_49_47_7073_tx_103.xml
+06:52:34 PM - Parsing the second input XML - D:\Arnab Da\Forester\XML Parser\103\103\BB1060420_20170811_13_20_17_6683_tx_103.xml
+06:52:34 PM - Writing the header row in excel report for D:\Arnab Da\Forester\XML Parser\103\103\BB1060419_20170811_12_49_47_7073_tx_103.xml
+06:52:34 PM - Writing the data in excel report for D:\Arnab Da\Forester\XML Parser\103\103\BB1060419_20170811_12_49_47_7073_tx_103.xml
+06:52:34 PM - Writing the header row in excel report for D:\Arnab Da\Forester\XML Parser\103\103\BB1060420_20170811_13_20_17_6683_tx_103.xml
+06:52:34 PM - Writing the data in excel report for D:\Arnab Da\Forester\XML Parser\103\103\BB1060420_20170811_13_20_17_6683_tx_103.xml
+06:52:35 PM - Compare between the 2 XMLs
+06:52:35 PM - Writing data for comparison to excel report
+06:52:36 PM - Summary Report entry for test case - Test1
+06:52:36 PM - Starting comparing the XML(s) for Test2
+06:52:36 PM - Parsing the first input XML - D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060419_20170811_12_49_49_1915_tx_1125.xml
+06:52:36 PM - Parsing the second input XML - D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060420_20170811_13_20_20_6680_tx_1125.xml
+06:52:36 PM - Writing the header row in excel report for D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060419_20170811_12_49_49_1915_tx_1125.xml
+06:52:36 PM - Writing the data in excel report for D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060419_20170811_12_49_49_1915_tx_1125.xml
+06:52:36 PM - Writing the header row in excel report for D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060420_20170811_13_20_20_6680_tx_1125.xml
+06:52:36 PM - Writing the data in excel report for D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060420_20170811_13_20_20_6680_tx_1125.xml
+06:52:36 PM - Compare between the 2 XMLs
+06:52:37 PM - Writing data for comparison to excel report
+06:52:37 PM - Summary Report entry for test case - Test2
+06:52:37 PM - Starting comparing the XML(s) for Test3
+06:52:37 PM - Parsing the first input XML - D:\Arnab Da\Forester\XML Parser\103\103\BB1060419_20170811_12_49_47_7073_tx_103.xml
+06:52:37 PM - Parsing the second input XML - D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060421_20170811_13_35_50_6234_tx_1125.xml
+06:52:37 PM - Writing the header row in excel report for D:\Arnab Da\Forester\XML Parser\103\103\BB1060419_20170811_12_49_47_7073_tx_103.xml
+06:52:37 PM - Writing the data in excel report for D:\Arnab Da\Forester\XML Parser\103\103\BB1060419_20170811_12_49_47_7073_tx_103.xml
+06:52:37 PM - Writing the header row in excel report for D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060421_20170811_13_35_50_6234_tx_1125.xml
+06:52:37 PM - Writing the data in excel report for D:\Arnab Da\Forester\XML Parser\1125\1125\BB1060421_20170811_13_35_50_6234_tx_1125.xml
+06:52:37 PM - Compare between the 2 XMLs
+06:52:38 PM - Writing data for comparison to excel report
+06:52:38 PM - Summary Report entry for test case - Test3
+06:52:39 PM - Execution ended :17-Sep-2017 06:52:39 PM
+06:52:39 PM - Elapsed time :5 seconds
